@@ -3,7 +3,7 @@
 - 👀 I’m interested in to roadmap a deployments on GCP and DevOps Projects 
 - 🌱 I’m currently learning Pulumi and Terraform
 - 💞️ I’m looking to collaborate on ... Migration Microservices on Kubernetes
-- 📫 How to reach me fabian.oswaldovera@globamt.com
+- 📫 How to reach me fabian.oswaldoverajimenez@gmail.com
 - <p>
   <a href="https://www.linkedin.com/in/fabian-oswaldo-vera-jimenez/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn Fabian Vera
