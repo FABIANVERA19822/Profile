@@ -6,7 +6,7 @@
 - 📫 How to reach me fabian.oswaldovera@globamt.com
 - <p>
   <a href="https://www.linkedin.com/in/fabian-oswaldo-vera-jimenez/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn Fabian Vera
   </a> &nbsp; 
 </p>
 <!---
