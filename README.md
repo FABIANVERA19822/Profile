@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fabian Vera
-- 
+- 👋 Hi, I’m @fabian Vera, currently my rol as Cloud Engineer Sr on GCP, AZURE and AWS
+-  I have experience on Tool for automatization IaaC like Terraform , Puliumi, adn Python
 - 👀 I’m interested in to roadmap a deployments on GCP and DevOps Projects 
 - 🌱 I’m currently learning Pulumi and Terraform
 - 💞️ I’m looking to collaborate on ... Migration Microservices on Kubernetes
