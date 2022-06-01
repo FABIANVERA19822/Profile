@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ... Migration Microservices on Kubernetes
 - 📫 How to reach me fabian.oswaldovera@globamt.com
 - <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/fabian-oswaldo-vera-jimenez/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
