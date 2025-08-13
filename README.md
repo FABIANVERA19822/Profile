@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fabian Vera, currently my rol as Cloud Engineer and DevOps Sr  on GCP, AZURE and AWS
+- 👋 Hi, I’m @fabian Vera, currently my rol as Cloud Engineer and DevOps Sr and AI technical enthusiast with experience  on GCP, AZURE and AWS
 -  I have experience on Tool for automatization IaaC like Terraform , Puliumi, adn Python
 - 👀 I’m interested in to roadmap a deployments on GCP and DevOps Projects 
 - 🌱 I’m currently learning Jenkins and Kubernetes
